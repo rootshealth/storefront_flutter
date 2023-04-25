@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - storefront_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - storefront_flutter (from `.symlinks/plugins/storefront_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  storefront_flutter:
+    :path: ".symlinks/plugins/storefront_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  storefront_flutter: 2fd5768410efaf0ddd91ffc26eb9564df7364721
+
+PODFILE CHECKSUM: 0dbd5a87e0ace00c9610d2037ac22083a01f861d
+
+COCOAPODS: 1.12.0
