@@ -1,6 +1,8 @@
 # storefront_flutter
 
-A new Flutter plugin project.
+alpha-stage storefront plugin for flutter
+
+It is currently just used to get the **countryCode** from the native iOS [SKStorefront](https://developer.apple.com/documentation/storekit/skstorefront) library. **Android is not supported!**
 
 ## Getting Started
 
